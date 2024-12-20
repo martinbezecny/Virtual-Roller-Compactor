@@ -22,7 +22,7 @@ cd Virtual-Roller-Compactor
 ```
 - Install Dependencies
 ```
-pip install numpy customtkinter
+pip install numpy customtkinter scipy
 ```
 - Run the Application
 ```
