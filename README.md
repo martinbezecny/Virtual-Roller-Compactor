@@ -12,7 +12,7 @@ A simple GUI-based Python application to virtually simulate the maximum pressure
 
 ## Installation
 ### Download executable for Windows
-Download the .EXE file and run: TODO
+Download the .EXE file and run: [Virtual Roller Compactor v0.2](https://github.com/martinbezecny/Virtual-Roller-Compactor/releases/download/v0.2/Virtual.Roller.Compactor.v0.2.exe)
 ___
 ### Clone git repository
 - Clone the Repository
