@@ -1,1 +1,1 @@
-numpy customtkinter
+numpy customtkinter scipy
