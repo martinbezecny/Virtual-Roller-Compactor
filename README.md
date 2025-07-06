@@ -1,6 +1,6 @@
 # Virtual Roller Compactor
 
-A simple GUI-based Python application to virtually simulate the maximum pressure for given process parameters of an Alexanderwerk roller compactor, and given compressibility factor of the powder. This Virtual Roller Compactor specifically models the Alexanderwerk WP 120 Pharma equipped with textured rolls of 250mm in diameter and 4mm in width. Built with Tkinter for the GUI and NumPy for numerical integration.
+A simple GUI-based Python application to virtually simulate the maximum pressure for given process parameters of an Alexanderwerk roller compactor, and given compressibility factor of the powder. This Virtual Roller Compactor specifically models the Alexanderwerk WP 120 Pharma equipped with textured rolls of 250mm in diameter and 40mm in width. Built with Tkinter for the GUI and NumPy for numerical integration.
 
 
 ## Preview
